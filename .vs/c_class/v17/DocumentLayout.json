@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\82105\\Desktop\\c_class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\82105\\Desktop\\c_class\\02_excercise2.c\\02_excercise2.c\\02_excercise2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02_excercise2.c\\02_excercise2.c\\02_excercise2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\82105\\Desktop\\c_class\\03_excercise4\\03_excercise4\\03_excercise4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03_excercise4\\03_excercise4\\03_excercise4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\82105\\Desktop\\c_class\\02_excercise1.c\\02_excercise1.c\\02_excercise1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02_excercise1.c\\02_excercise1.c\\02_excercise1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\82105\\Desktop\\c_class\\03_excercise2\\03_excercise2\\03_excercise2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03_excercise2\\03_excercise2\\03_excercise2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\82105\\Desktop\\c_class\\03_excercise3\\03_excercise3\\03_excercise3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03_excercise3\\03_excercise3\\03_excercise3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\82105\\Desktop\\c_class\\03_excercise1\\03_excercise1\\03_excercise1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03_excercise1\\03_excercise1\\03_excercise1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\82105\\Desktop\\c_class\\03_excercise5\\03_excercise5\\03_excercise5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03_excercise5\\03_excercise5\\03_excercise5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "02_excercise2.c",
-              "DocumentMoniker": "C:\\Users\\82105\\Desktop\\c_class\\02_excercise2.c\\02_excercise2.c\\02_excercise2.c",
-              "RelativeDocumentMoniker": "02_excercise2.c\\02_excercise2.c\\02_excercise2.c",
-              "ToolTip": "C:\\Users\\82105\\Desktop\\c_class\\02_excercise2.c\\02_excercise2.c\\02_excercise2.c",
-              "RelativeToolTip": "02_excercise2.c\\02_excercise2.c\\02_excercise2.c",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "03_excercise4.c",
+              "DocumentMoniker": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise4\\03_excercise4\\03_excercise4.c",
+              "RelativeDocumentMoniker": "03_excercise4\\03_excercise4\\03_excercise4.c",
+              "ToolTip": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise4\\03_excercise4\\03_excercise4.c",
+              "RelativeToolTip": "03_excercise4\\03_excercise4\\03_excercise4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-10T04:55:06.331Z",
+              "WhenOpened": "2024-03-11T05:17:47.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03_excercise3.c",
+              "DocumentMoniker": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise3\\03_excercise3\\03_excercise3.c",
+              "RelativeDocumentMoniker": "03_excercise3\\03_excercise3\\03_excercise3.c",
+              "ToolTip": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise3\\03_excercise3\\03_excercise3.c",
+              "RelativeToolTip": "03_excercise3\\03_excercise3\\03_excercise3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-11T05:17:45.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "02_excercise1.c",
-              "DocumentMoniker": "C:\\Users\\82105\\Desktop\\c_class\\02_excercise1.c\\02_excercise1.c\\02_excercise1.c",
-              "RelativeDocumentMoniker": "02_excercise1.c\\02_excercise1.c\\02_excercise1.c",
-              "ToolTip": "C:\\Users\\82105\\Desktop\\c_class\\02_excercise1.c\\02_excercise1.c\\02_excercise1.c",
-              "RelativeToolTip": "02_excercise1.c\\02_excercise1.c\\02_excercise1.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Title": "03_excercise2.c",
+              "DocumentMoniker": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise2\\03_excercise2\\03_excercise2.c",
+              "RelativeDocumentMoniker": "03_excercise2\\03_excercise2\\03_excercise2.c",
+              "ToolTip": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise2\\03_excercise2\\03_excercise2.c",
+              "RelativeToolTip": "03_excercise2\\03_excercise2\\03_excercise2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-10T04:55:00.42Z",
+              "WhenOpened": "2024-03-11T05:17:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "03_excercise1.c",
+              "DocumentMoniker": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise1\\03_excercise1\\03_excercise1.c",
+              "RelativeDocumentMoniker": "03_excercise1\\03_excercise1\\03_excercise1.c",
+              "ToolTip": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise1\\03_excercise1\\03_excercise1.c",
+              "RelativeToolTip": "03_excercise1\\03_excercise1\\03_excercise1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-11T05:17:20.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "03_excercise5.c",
+              "DocumentMoniker": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise5\\03_excercise5\\03_excercise5.c",
+              "RelativeDocumentMoniker": "03_excercise5\\03_excercise5\\03_excercise5.c",
+              "ToolTip": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise5\\03_excercise5\\03_excercise5.c",
+              "RelativeToolTip": "03_excercise5\\03_excercise5\\03_excercise5.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-10T06:59:42.833Z",
               "EditorCaption": ""
             }
           ]

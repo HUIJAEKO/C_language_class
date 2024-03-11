@@ -1,11 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\02_excercise1.c",
-    "\\02_excercise1.c\\02_excercise1.c",
-    "\\02_excercise2.c",
-    "\\02_excercise2.c\\02_excercise2.c"
+    "\\03_excercise1",
+    "\\03_excercise1\\03_excercise1",
+    "\\03_excercise2",
+    "\\03_excercise2\\03_excercise2",
+    "\\03_excercise3",
+    "\\03_excercise3\\03_excercise3",
+    "\\03_excercise4",
+    "\\03_excercise4\\03_excercise4",
+    "\\03_excercise5",
+    "\\03_excercise5\\03_excercise5"
   ],
-  "SelectedNode": "\\02_excercise2.c\\02_excercise2.c\\02_excercise2.c",
+  "SelectedNode": "\\03_excercise4\\03_excercise4\\03_excercise4.c",
   "PreviewInSolutionExplorer": false
 }

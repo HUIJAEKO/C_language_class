@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C1F12B-D628-41F6-B6B3-B44AD87D932E}|03_excercise5\\03_excercise5.vcxproj|C:\\Users\\82105\\Desktop\\c_class\\03_excercise5\\03_excercise5\\03_excercise5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05C1F12B-D628-41F6-B6B3-B44AD87D932E}|03_excercise5\\03_excercise5.vcxproj|solutionrelative:03_excercise5\\03_excercise5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C1F12B-D628-41F6-B6B3-B44AD87D932E}|03_excercise5\\03_excercise5.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\YVALS_CORE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "yvals_core.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\yvals_core.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\yvals_core.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\yvals_core.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\yvals_core.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvx8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-11T04:51:14.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03_excercise5.c",
+              "DocumentMoniker": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise5\\03_excercise5\\03_excercise5.c",
+              "RelativeDocumentMoniker": "03_excercise5\\03_excercise5.c",
+              "ToolTip": "C:\\Users\\82105\\Desktop\\c_class\\03_excercise5\\03_excercise5\\03_excercise5.c",
+              "RelativeToolTip": "03_excercise5\\03_excercise5.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-10T06:52:45.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
