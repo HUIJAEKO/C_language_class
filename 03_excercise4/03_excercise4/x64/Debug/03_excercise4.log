@@ -1,3 +1,4 @@
 ﻿  03_excercise4.c
 C:\Users\82105\Desktop\c_class\03_excercise4\03_excercise4\03_excercise4.c(14,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82105\Desktop\c_class\03_excercise4\03_excercise4\03_excercise4.c(18,9): warning C4129: 'i': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
   03_excercise4.vcxproj -> C:\Users\82105\Desktop\c_class\03_excercise4\x64\Debug\03_excercise4.exe

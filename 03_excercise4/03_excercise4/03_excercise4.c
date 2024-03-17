@@ -14,5 +14,6 @@ int main(void)
 	second = age * 3.156e7;
 
 	printf("%d years = %f seconds", age, second);
+
 	return 0;
 }
