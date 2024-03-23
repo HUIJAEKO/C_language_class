@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "04_excercise6\\04_excercise6\\04_excercise6.c",
               "ToolTip": "C:\\Users\\82105\\Desktop\\c_class\\04_excercise6\\04_excercise6\\04_excercise6.c",
               "RelativeToolTip": "04_excercise6\\04_excercise6\\04_excercise6.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-17T04:27:53.448Z",
               "EditorCaption": ""
@@ -89,7 +89,8 @@
               "RelativeToolTip": "03_excercise2\\03_excercise2\\03_excercise2.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-11T05:17:41.762Z"
+              "WhenOpened": "2024-03-11T05:17:41.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -101,7 +102,8 @@
               "RelativeToolTip": "03_excercise1\\03_excercise1\\03_excercise1.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-11T05:17:20.862Z"
+              "WhenOpened": "2024-03-11T05:17:20.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -113,7 +115,8 @@
               "RelativeToolTip": "03_excercise5\\03_excercise5\\03_excercise5.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-10T06:59:42.833Z"
+              "WhenOpened": "2024-03-10T06:59:42.833Z",
+              "EditorCaption": ""
             }
           ]
         }

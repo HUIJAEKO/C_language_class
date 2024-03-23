@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82105\\Desktop\\c_class\\05_Excercise5.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2C4B2F-BAD2-4702-99BF-830741A51F23}|05_Excercise5.c\\05_Excercise5.c.vcxproj|C:\\Users\\82105\\Desktop\\c_class\\05_Excercise5.c\\05_Excercise5.c\\05_Excercise5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E2C4B2F-BAD2-4702-99BF-830741A51F23}|05_Excercise5.c\\05_Excercise5.c.vcxproj|solutionrelative:05_Excercise5.c\\05_Excercise5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "05_Excercise5.c",
+              "DocumentMoniker": "C:\\Users\\82105\\Desktop\\c_class\\05_Excercise5.c\\05_Excercise5.c\\05_Excercise5.c",
+              "RelativeDocumentMoniker": "05_Excercise5.c\\05_Excercise5.c",
+              "ToolTip": "C:\\Users\\82105\\Desktop\\c_class\\05_Excercise5.c\\05_Excercise5.c\\05_Excercise5.c",
+              "RelativeToolTip": "05_Excercise5.c\\05_Excercise5.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-23T06:41:43.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

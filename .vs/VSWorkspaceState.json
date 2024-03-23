@@ -1,12 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\04_excercise5",
-    "\\04_excercise5\\04_excercise5",
-    "\\04_excercise5\\Debug",
+    "\\02_excercise1",
+    "\\02_excercise2",
     "\\04_excercise6",
-    "\\04_excercise6\\04_excercise6"
+    "\\04_excercise6\\04_excercise6",
+    "\\05_Excercise4",
+    "\\05_Excercise4\\05_Excercise4",
+    "\\05_Excercise5",
+    "\\05_Excercise5\\05_Excercise5"
   ],
-  "SelectedNode": "\\04_excercise6\\04_excercise6\\04_excercise6.c",
+  "SelectedNode": "\\02_excercise2\\02_excercise2",
   "PreviewInSolutionExplorer": false
 }
