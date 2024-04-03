@@ -1,0 +1,7 @@
+﻿  07_Excercise6.c
+C:\Users\82105\Desktop\c_class\07_Excercise6\07_Excercise6\07_Excercise6.c(18,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82105\Desktop\c_class\07_Excercise6\07_Excercise6\07_Excercise6.c(20,30): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82105\Desktop\c_class\07_Excercise6\07_Excercise6\07_Excercise6.c(24,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82105\Desktop\c_class\07_Excercise6\07_Excercise6\07_Excercise6.c(26,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82105\Desktop\c_class\07_Excercise6\07_Excercise6\07_Excercise6.c(28,40): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  07_Excercise6.vcxproj -> C:\Users\82105\Desktop\c_class\07_Excercise6\x64\Debug\07_Excercise6.exe
