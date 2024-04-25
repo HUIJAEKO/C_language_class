@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\08_Excercise01"
+    "\\08_Excercise01",
+    "\\08_Excercise01\\x64",
+    "\\08_Excercise01\\x64\\Debug"
   ],
   "SelectedNode": "\\08_Excercise01\\08_Excercise01.c",
   "PreviewInSolutionExplorer": false
