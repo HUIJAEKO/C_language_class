@@ -1,0 +1,5 @@
+﻿  10_Excercise01.c
+C:\Users\82105\Desktop\c_class\10_Excercise01\10_Excercise01\10_Excercise01.c(41,1): warning C4716: 'copy_arr': 값을 반환해야 합니다.
+C:\Users\82105\Desktop\c_class\10_Excercise01\10_Excercise01\10_Excercise01.c(47,1): warning C4716: 'copy_ptr': 값을 반환해야 합니다.
+C:\Users\82105\Desktop\c_class\10_Excercise01\10_Excercise01\10_Excercise01.c(53,1): warning C4716: 'copy_ptrs': 값을 반환해야 합니다.
+  10_Excercise01.vcxproj -> C:\Users\82105\Desktop\c_class\10_Excercise01\x64\Debug\10_Excercise01.exe
