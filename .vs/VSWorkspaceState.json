@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\04_excercise6",
+    "\\04_excercise6\\04_excercise6",
+    "\\06_Excercise4",
+    "\\06_Excercise4\\06_Excercise4",
     "\\06_Excercise6",
-    "\\06_Excercise6\\06_Excercise6",
-    "\\07_Excercise2",
-    "\\07_Excercise2\\07_Excercise2",
-    "\\07_Excercise6",
-    "\\07_Excercise6\\07_Excercise6",
-    "\\08_Excercise01",
-    "\\08_Excercise01\\08_Excercise01",
-    "\\08_Excercise05",
-    "\\08_Excercise05\\08_Excercise05"
+    "\\11_Excercise04",
+    "\\11_Excercise04\\11_Excercise04",
+    "\\11_Excercise05",
+    "\\11_Excercise05\\11_Excercise05"
   ],
-  "SelectedNode": "\\03_excercise1\\03_excercise1\\03_excercise1.c",
+  "SelectedNode": "\\11_Excercise04\\11_Excercise04\\11_Excercise04.c",
   "PreviewInSolutionExplorer": false
 }
