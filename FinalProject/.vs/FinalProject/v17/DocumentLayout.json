@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{E56B92C1-1C95-4B47-A7D6-5110262ADA33}|FinalProject\\FinalProject.vcxproj|C:\\Users\\82105\\Desktop\\c_class\\FinalProject\\FinalProject\\19100031_finalProject.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E56B92C1-1C95-4B47-A7D6-5110262ADA33}|FinalProject\\FinalProject.vcxproj|solutionrelative:FinalProject\\19100031_finalProject.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56B92C1-1C95-4B47-A7D6-5110262ADA33}|FinalProject\\FinalProject.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +17,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAAHcCAAAAAAAAAAAmwIUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-08T07:00:53.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +44,7 @@
               "RelativeDocumentMoniker": "FinalProject\\19100031_finalProject.c",
               "ToolTip": "C:\\Users\\82105\\Desktop\\c_class\\FinalProject\\FinalProject\\19100031_finalProject.c",
               "RelativeToolTip": "FinalProject\\19100031_finalProject.c",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "ViewState": "AQIAAN8BAAAAAAAAAAAAAOYBAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-07T05:01:33.395Z",
               "EditorCaption": ""
