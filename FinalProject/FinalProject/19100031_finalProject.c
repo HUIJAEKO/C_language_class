@@ -14,6 +14,7 @@ int contains(int* number, int num, int length);
 void random_number(int* number);
 int match_count(int* user, int* winning);
 void result(int* user, int* winning, int count);
+int has_duplicates(int* numbers, int length);
 
 void single_mode_keyboard_rule();
 void single_mode_keyboard();
@@ -91,7 +92,7 @@ void random_number(int* number) {
     }
 }
 
-/*duplication test*/
+/*duplication test(with specific charactor)*/
 int contains(int* number, int num, int length) {
     for (int i = 0; i < length; i++) {
         if (number[i] == num) {
@@ -99,6 +100,16 @@ int contains(int* number, int num, int length) {
         }
     }
     return 0;
+}
+
+/*duplication test for file input*/
+int has_duplicates(int* numbers, int length) {
+    for (int i = 0; i < length; i++) {
+        if (contains(numbers, numbers[i], i)) {
+            return 1;  
+        }
+    }
+    return 0;  
 }
 
 /*compare user choice numbers and random numbers*/
@@ -328,7 +339,7 @@ void single_mode_file() {
                 }
 
                 /*if valid numbers or A*/
-                if ((isValid && index == NUMBER)) {                  
+                if ((isValid && index == NUMBER) && !has_duplicates(user, NUMBER)) {
                     /*make winning number*/
                     int winning[NUMBER];
                     random_number(winning);
@@ -401,21 +412,26 @@ void multi_mode() {
         fgets(fname, sizeof(fname), stdin);
         fname[strcspn(fname, "\n")] = '\0';
 
-        /*file open or not*/
+        // Open file
         fp = fopen(fname, "w");
-        if (fp != NULL) {
-            printf("         Input the number of plays (range: 1,000 to 1,000,000): ");
-            /*enter the num of play*/
-            scanf_s("%d", &plays);
-            getchar();
-            if (plays < 1000 || plays > 1000000) {
-                printf("\n         Input the number of plays (range: 1,000 to 1,000,000): ");
-            }
-        }
-        else {
+        if (fp == NULL) {
             printf("Failed to open the file.\n");
             continue;
         }
+
+        // Input the number of plays
+        while (1) {
+            printf("         Input the number of plays (range: 1,000 to 1,000,000): ");
+            scanf("%d", &plays);
+            while (getchar() != '\n');
+            if (plays >= 1000 && plays <= 1000000) {
+                break;
+            }
+            else {
+                printf("         Invalid number of plays. Please enter a value between 1,000 and 1,000,000.\n");
+            }
+        }
+
 
         /*make array and values to store count of prize and total money*/
         int prize_counts[4] = {0, 0, 0, 0};
