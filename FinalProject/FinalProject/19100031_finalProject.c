@@ -15,7 +15,6 @@ void random_number(int* number);
 int match_count(int* user, int* winning);
 void result(int* user, int* winning, int count);
 
-
 void single_mode_keyboard_rule();
 void single_mode_keyboard();
 void keyboard_result(int* user, int* winning, int count);
